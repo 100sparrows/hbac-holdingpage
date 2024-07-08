@@ -21,7 +21,6 @@
     --width-card-medium: 460px;
     --width-card-wide: 800px;
     --width-content: 1080px;
-    --body-bg-image: url('./assets/Sample_Floorplan.jpg');
 }
 
 
@@ -100,9 +99,6 @@ section aside h3{
     margin-top: 16px;
     margin-bottom: 16px;
 }
-section aside:hover {
-    /* box-shadow: var(--box-shadow) var(--color-bg-secondary); */
-}
 
 section aside img {
     max-width: 100%;
@@ -117,10 +113,6 @@ article header,
 div header,
 main header {
     padding-top: 0;
-}
-
-header {
-    /* text-align: var(--justify-important); */
 }
 
 header a b,
